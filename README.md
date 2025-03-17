@@ -10,7 +10,7 @@
 - 🌱 我对新技术充满热情
 - 👯 希望能与志同道合的朋友合作
 - 💬 欢迎与我交流技术话题
-- ⚡ 我的座右铭：学习好玩的技术
+- ⚡ 我的座右铭：学无止境
 
 ## 🛠️ 技术栈 | Tech Stack
 
@@ -27,7 +27,8 @@
 ## 📊 GitHub 统计 | Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wnzzer&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wnzzer&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnzzer&layout=compact&theme=tokyonight" />
 </div>
 
 ## 🏆 GitHub 奖杯 | Trophies
@@ -43,4 +44,8 @@
 <!-- 你可以添加其他社交媒体链接 -->
 
 ---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/wnzzer/count.svg" />
+</div>
 
