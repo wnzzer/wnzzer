@@ -1,16 +1,46 @@
-## Hi there 👋
+# 你好 👋 欢迎来到wnzzer GitHub 主页！
 
-<!--
-**wnzzer/wnzzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=热爱编程;热爱学习;永远保持好奇心" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 🌈 关于我 | About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 我正在研究和学习...
+- 🌱 我对新技术充满热情
+- 👯 希望能与志同道合的朋友合作
+- 💬 欢迎与我交流技术话题
+- ⚡ 我的座右铭：学习好玩的技术
+
+## 🛠️ 技术栈 | Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <!-- 你可以根据自己的技术栈添加更多徽章 -->
+</div>
+
+## 📊 GitHub 统计 | Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wnzzer&show_icons=true&theme=tokyonight" />
+</div>
+
+## 🏆 GitHub 奖杯 | Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wnzzer&theme=nord&column=7" />
+</div>
+
+## 📫 联系我 | Contact Me
+
+- 📧 Email: [wnzzer@outlook.com]
+- 🌐 Blog: [https://blog.csdn.net/faker1234546]
+<!-- 你可以添加其他社交媒体链接 -->
+
+---
+
