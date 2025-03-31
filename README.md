@@ -44,6 +44,6 @@
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/wnzzer/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=wnzzer&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
