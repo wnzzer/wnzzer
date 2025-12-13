@@ -40,15 +40,8 @@
 
 ## 🏆 GitHub 奖杯 | Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wnzzer&theme=onedark&no-frame=false&no-bg=true&margin-w=4" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=wnzzer&theme=tokyonight&no-frame=false&column=7)](https://github.com/wnzzer/github-profile-trophy)
 
-## 📈 贡献活动 | Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wnzzer&theme=tokyo-night" />
-</div>
 
 ## 📝 每日一言 | Quote
 
