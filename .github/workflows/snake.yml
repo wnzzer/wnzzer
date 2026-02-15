@@ -1,4 +1,4 @@
-# 贡献蛇形图 - 每日自动生成
+# 贡献蛇形图 - 每日自动生成（暗色 + 亮色）
 # 参考: https://github.com/Platane/snk
 name: Generate contribution snake
 
@@ -17,12 +17,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake
+      - name: Generate snake (dark + light)
         uses: Platane/snk@v3
         with:
           github_user_name: wnzzer
           outputs: |
-            output/github-contribution-grid-snake.svg?palette=github-dark
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
 
       - name: Push
         run: |
