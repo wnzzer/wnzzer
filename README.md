@@ -95,9 +95,9 @@ fun_fact: "I mass-produce bugs and call them features 🐛"
 
 <div align="center">
 
-<!-- 项目展示卡片 -->
+<!-- 项目展示卡片（缓存至 output 分支，避免 API 速率限制） -->
 <a href="https://github.com/wnzzer/rank-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wnzzer&repo=rank-analysis&title_color=00D9FF&icon_color=00ffa3&text_color=8B949E&bg_color=0D1117&hide_border=true&border_radius=15" alt="rank-analysis" />
+  <img src="https://raw.githubusercontent.com/wnzzer/wnzzer/output/pin-rank-analysis.svg" alt="rank-analysis" />
 </a>
 
 <br/><br/>
@@ -150,26 +150,26 @@ fun_fact: "I mass-produce bugs and call them features 🐛"
 
 <div align="center">
 
-<!-- Stats 卡片 -->
+<!-- Stats 卡片（缓存至 output 分支，避免 API 速率限制） -->
 <a href="https://github.com/wnzzer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wnzzer&show_icons=true&count_private=true&include_all_commits=true&title_color=00D9FF&icon_color=00ffa3&text_color=8B949E&bg_color=0D1117&hide_border=true&border_radius=15&ring_color=00D9FF" alt="GitHub Stats" />
+  <img height="180" src="https://raw.githubusercontent.com/wnzzer/wnzzer/output/stats.svg" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/wnzzer">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnzzer&layout=donut-vertical&title_color=00D9FF&text_color=8B949E&bg_color=0D1117&hide_border=true&border_radius=15&langs_count=8" alt="Top Langs" />
+  <img height="180" src="https://raw.githubusercontent.com/wnzzer/wnzzer/output/top-langs.svg" alt="Top Langs" />
 </a>
 
 <br/><br/>
 
 <!-- Streak 统计 -->
 <a href="https://github.com/wnzzer">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wnzzer&theme=transparent&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00ffa3&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E&border_radius=15" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=wnzzer&theme=transparent&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00ffa3&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E&border_radius=15" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
 
-<!-- 活动图 -->
+<!-- 活动图（缓存至 output 分支，避免 API 速率限制） -->
 <a href="https://github.com/wnzzer">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wnzzer&bg_color=0d1117&color=00D9FF&line=00ffa3&point=ffffff&area_color=00D9FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" width="95%"/>
+  <img src="https://raw.githubusercontent.com/wnzzer/wnzzer/output/activity-graph.svg" alt="Activity Graph" width="95%"/>
 </a>
 
 </div>
