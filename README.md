@@ -1,12 +1,14 @@
-<div align="center">
+<h1 align="center">wnzzer</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ffa3&height=180&section=header&text=wnzzer&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Systems&descSize=18&descAlignY=52&descColor=ffffffcc" />
+<p align="center">Full-Stack Developer · AI & Systems · Open Source</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=wnzzer&style=flat-square&color=00D9FF)](https://github.com/wnzzer)
-[![GitHub followers](https://img.shields.io/github/followers/wnzzer?style=flat-square&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/wnzzer)
-[![GitHub stars](https://img.shields.io/github/stars/wnzzer?style=flat-square&color=00ffa3&labelColor=0D1117&logo=github)](https://github.com/wnzzer)
+<p align="center">
+  <a href="https://github.com/wnzzer"><img src="https://img.shields.io/badge/GitHub-wnzzer-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="mailto:wnzzer@outlook.com"><img src="https://img.shields.io/badge/Email-wnzzer%40outlook.com-00D9FF?style=flat-square&logo=microsoft-outlook&logoColor=white&labelColor=0D1117" /></a>
+  <a href="https://blog.csdn.net/faker1234546"><img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTRTMTcuNTIzIDIgMTIgMnptMCAxOGMtNC40MTggMC04LTMuNTgyLTgtOHMzLjU4Mi04IDgtOCA4IDMuNTgyIDggOC0zLjU4MiA4LTggOHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&labelColor=0D1117" /></a>
+</p>
 
-</div>
+---
 
 ## 👋 About
 
@@ -99,24 +101,4 @@ tech_focus:
   <img src="https://streak-stats.demolab.com/?user=wnzzer&theme=transparent&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00ffa3&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff&dates=8B949E&border_radius=15" alt="GitHub Streak" />
 </a>
 
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="mailto:wnzzer@outlook.com">
-  <img src="https://img.shields.io/badge/Email-wnzzer%40outlook.com-00D9FF?style=flat-square&logo=microsoft-outlook&logoColor=white&labelColor=0D1117" />
-</a>
-<a href="https://blog.csdn.net/faker1234546">
-  <img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnptMCAxOGMtNC40MTggMC04LTMuNTgyLTgtOHMzLjU4Mi04IDgtOCA4IDMuNTgyIDggOC0zLjU4MiA4LTggOHoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&labelColor=0D1117" />
-</a>
-
-</div>
-
-<br/>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:00ffa3&height=100&section=footer" />
 </div>
