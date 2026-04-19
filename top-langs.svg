@@ -1,0 +1,80 @@
+<svg width="350" height="348" viewBox="0 0 350 348" xmlns="http://www.w3.org/2000/svg">
+  <rect width="350" height="348" fill="#0D1117" rx="15"/>
+  <text x="25" y="30" fill="#00D9FF" font-size="18" font-weight="700" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Most Used Languages</text>
+  <g>
+      <circle cx="175" cy="130" r="70" fill="none"
+              stroke="#3178c6" stroke-width="30"
+              stroke-dasharray="286.32 153.50"
+              stroke-dashoffset="0.00"
+              transform="rotate(-90, 175, 130)"/>
+      <circle cx="175" cy="130" r="70" fill="none"
+              stroke="#f1e05a" stroke-width="30"
+              stroke-dasharray="104.68 335.15"
+              stroke-dashoffset="-286.32"
+              transform="rotate(-90, 175, 130)"/>
+      <circle cx="175" cy="130" r="70" fill="none"
+              stroke="#F05138" stroke-width="30"
+              stroke-dasharray="16.27 423.55"
+              stroke-dashoffset="-391.00"
+              transform="rotate(-90, 175, 130)"/>
+      <circle cx="175" cy="130" r="70" fill="none"
+              stroke="#dea584" stroke-width="30"
+              stroke-dasharray="11.88 427.95"
+              stroke-dashoffset="-407.28"
+              transform="rotate(-90, 175, 130)"/>
+      <circle cx="175" cy="130" r="70" fill="none"
+              stroke="#3572A5" stroke-width="30"
+              stroke-dasharray="6.60 433.23"
+              stroke-dashoffset="-419.15"
+              transform="rotate(-90, 175, 130)"/>
+      <circle cx="175" cy="130" r="70" fill="none"
+              stroke="#A97BFF" stroke-width="30"
+              stroke-dasharray="4.84 434.98"
+              stroke-dashoffset="-425.75"
+              transform="rotate(-90, 175, 130)"/>
+      <circle cx="175" cy="130" r="70" fill="none"
+              stroke="#89e051" stroke-width="30"
+              stroke-dasharray="3.52 436.30"
+              stroke-dashoffset="-430.59"
+              transform="rotate(-90, 175, 130)"/>
+      <circle cx="175" cy="130" r="70" fill="none"
+              stroke="#663399" stroke-width="30"
+              stroke-dasharray="1.32 438.50"
+              stroke-dashoffset="-434.11"
+              transform="rotate(-90, 175, 130)"/>
+  </g>
+  <g>
+      <g transform="translate(25, 245)">
+        <circle cx="6" cy="-4" r="6" fill="#3178c6"/>
+        <text x="18" y="0" fill="#8B949E" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">TypeScript 65.1%</text>
+      </g>
+      <g transform="translate(200, 245)">
+        <circle cx="6" cy="-4" r="6" fill="#f1e05a"/>
+        <text x="18" y="0" fill="#8B949E" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">JavaScript 23.8%</text>
+      </g>
+      <g transform="translate(25, 267)">
+        <circle cx="6" cy="-4" r="6" fill="#F05138"/>
+        <text x="18" y="0" fill="#8B949E" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Swift 3.7%</text>
+      </g>
+      <g transform="translate(200, 267)">
+        <circle cx="6" cy="-4" r="6" fill="#dea584"/>
+        <text x="18" y="0" fill="#8B949E" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Rust 2.7%</text>
+      </g>
+      <g transform="translate(25, 289)">
+        <circle cx="6" cy="-4" r="6" fill="#3572A5"/>
+        <text x="18" y="0" fill="#8B949E" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Python 1.5%</text>
+      </g>
+      <g transform="translate(200, 289)">
+        <circle cx="6" cy="-4" r="6" fill="#A97BFF"/>
+        <text x="18" y="0" fill="#8B949E" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Kotlin 1.1%</text>
+      </g>
+      <g transform="translate(25, 311)">
+        <circle cx="6" cy="-4" r="6" fill="#89e051"/>
+        <text x="18" y="0" fill="#8B949E" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">Shell 0.8%</text>
+      </g>
+      <g transform="translate(200, 311)">
+        <circle cx="6" cy="-4" r="6" fill="#663399"/>
+        <text x="18" y="0" fill="#8B949E" font-size="12" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif">CSS 0.3%</text>
+      </g>
+  </g>
+</svg>
